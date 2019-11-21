@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+#(aab)^n(c)^n | n >= 0 
+
+
+
 class tupla_transicion:
     def __init__(self, _estado, _caracter , _direccion):
         self.estado = _estado
