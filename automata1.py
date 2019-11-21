@@ -1,3 +1,7 @@
+#a^5n| n>0
+
+
+
 class tupla_transicion:
     def __init__(self, _estado, _caracter , _direccion):
         self.estado = _estado
